@@ -1,1 +1,7 @@
 /target/
+
+/.settings/
+/.mvn
+.project
+.springBeans
+.classpath
